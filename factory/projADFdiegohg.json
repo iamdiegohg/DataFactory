@@ -1,0 +1,9 @@
+{
+	"name": "projADFdiegohg",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1368e336-2462-4a48-8c9a-855ffac3d9cf",
+		"tenantId": "403c136e-48ff-455f-8fc5-ae4f0e2a304e"
+	}
+}
