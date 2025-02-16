@@ -1,0 +1,7 @@
+{
+	"name": "AzureBlobStorage550",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/a740afed-6bee-4390-a262-69e5c3c944fb/resourceGroups/RG_datafactory/providers/Microsoft.Storage/storageAccounts/storgaccdatafact",
+		"groupId": "blob"
+	}
+}
